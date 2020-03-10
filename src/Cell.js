@@ -25,3 +25,5 @@ class Cell extends Component {
       }
       
     }
+
+    export default Cell
